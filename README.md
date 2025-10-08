@@ -16,13 +16,15 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/enricmasella/enricmasella/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/0u3yuytf0yefzbo6zp16n16lo">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0u3yuytf0yefzbo6zp16n16lo&count=2&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+<img src="https://raw.githubusercontent.com/enricmasella/enricmasella/output/snake.svg" alt="Snake animation" />
 
 ###
 
