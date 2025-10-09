@@ -4,14 +4,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/enricmasella/enricmasella/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h6 align="center">“早安中國  今有冰淇淋  吾甚喜冰淇淋  然速度與激情九  較冰淇淋  速度與激情  速度與激情九  吾最喜  故今為音樂時  備一二三  兩禮拜後  速度與激情九三倍  毋  毋失  記往影院  九  蓋極佳影片  動作極佳  幾同冰淇淋再見” ~Jhon cena.</h6>
 
 ###
@@ -24,15 +16,19 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/enricmasella/enricmasella/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/enricmasella/enricmasella/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=enricmasella&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enricmasella&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="147" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=enricmasella&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enricmasella&radius=16&theme=chartreuse-dark&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=enricmasella&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enricmasella&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="147" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=enricmasella&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enricmasella&radius=16&theme=merko&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
