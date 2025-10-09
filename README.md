@@ -4,14 +4,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/enricmasella/enricmasella/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h6 align="center">“早安中國  今有冰淇淋  吾甚喜冰淇淋  然速度與激情九  較冰淇淋  速度與激情  速度與激情九  吾最喜  故今為音樂時  備一二三  兩禮拜後  速度與激情九三倍  毋  毋失  記往影院  九  蓋極佳影片  動作極佳  幾同冰淇淋再見” ~Jhon cena.</h6>
 
 ###
@@ -21,6 +13,14 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=0u3yuytf0yefzbo6zp16n16lo&count=2&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/enricmasella/enricmasella/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
