@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="*https://caster0x00.com/content/images/2025/10/caster-noir-config-demo-1.gif**"  />
+  <img height="350" src="https://caster0x00.com/content/images/2025/10/caster-noir-config-demo-1.gif"  />
 </div>
 
 ###
