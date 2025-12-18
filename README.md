@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybnNxbGh0MWQ3NTQ5Y3Rwb2drbnp5eXc1ZmlvMHpvdTgzMmJ6eHo3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tUxON6fVGX2LD87p57/giphy.gif"  />
+  <img height="350" src="*https://caster0x00.com/content/images/2025/10/caster-noir-config-demo-1.gif**"  />
 </div>
 
 ###
