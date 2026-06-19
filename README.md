@@ -12,13 +12,9 @@
 
 ###
 
-<h6 align="center">“早安中國  今有冰淇淋  吾甚喜冰淇淋  然速度與激情九  較冰淇淋  速度與激情  速度與激情九  吾最喜  故今為音樂時  備一二三  兩禮拜後  速度與激情九三倍  毋  毋失  記往影院  九  蓋極佳影片  動作極佳  幾同冰淇淋再見” <br>~Jhon cena.</h6>
-
-###
-
 <div align="center">
   <img height="350" width="700"
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG04dmpxMXpscTVtMnh3ZmFlNzJ3cXc5d3hkcGRiaTJndGtzcnhzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif"/>
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRjeXk2aGRjaHJuZ3Zrbno2bnN3Zzl4Yjhmcmg3c2t0bngzeWQwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GDj7ugNJUWWAz8d1Tn/giphy.gif"/>
 </div>
 
 ###
