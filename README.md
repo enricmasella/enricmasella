@@ -44,8 +44,6 @@
   <img alt="Loading Galaga..." src="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
-###
-
 <br clear="both">
 
 <div>
