@@ -13,7 +13,6 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
-###
 
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHY4YXFzMW9vaTlocmlob2E4Y3Zjajdyem51ZHJ1N3VzMnJrYzJhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOSzrW7jecNJADLXEh/giphy.gif"  />
