@@ -1,7 +1,18 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph.svg">
+  <img alt="Loading Galaga..." src="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+</div>
 ###
 
 <div align="center">
@@ -36,19 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph.svg">
-  <img alt="Loading Galaga..." src="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph.svg">
-</picture>
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
-</div>
 
 ###
 
