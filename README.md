@@ -7,7 +7,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHY4YXFzMW9vaTlocmlob2E4Y
 ###
 <div align="center">
   <a href="https://open.spotify.com/user/0u3yuytf0yefzbo6zp16n16lo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0u3yuytf0yefzbo6zp16n16lo&count=1&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0u3yuytf0yefzbo6zp16n16lo&count=1&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
