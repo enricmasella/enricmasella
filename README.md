@@ -1,10 +1,3 @@
-<div align="center">
-  <a href="https://open.spotify.com/user/0u3yuytf0yefzbo6zp16n16lo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0u3yuytf0yefzbo6zp16n16lo&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -31,7 +24,13 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHY4YXFzMW9vaTlocmlob2E4Y
 </div>
 
 ###
+<div align="center">
+  <a href="https://open.spotify.com/user/0u3yuytf0yefzbo6zp16n16lo">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0u3yuytf0yefzbo6zp16n16lo&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
+###
 ###
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
