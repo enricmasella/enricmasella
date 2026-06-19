@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
-###
+
 <div align="center">
   <a href="https://open.spotify.com/user/0u3yuytf0yefzbo6zp16n16lo">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=0u3yuytf0yefzbo6zp16n16lo&count=1&unique=false" alt="Spotify recently played"  />
@@ -45,4 +45,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=enricmasella.enricmasella&left_color=black&right_color=seagreen&left_text=Viewers"  />
 </div>
 
-###
