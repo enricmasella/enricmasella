@@ -133,7 +133,7 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 
 <p align="center">
   <a href="https://open.spotify.com/user/0u3yuytf0yefzbo6zp16n16lo" target="_blank">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=0u3yuytf0yefzbo6zp16n16lo&count=3&bg_color=000000&text_color=ffffff&artist_color=aaaaaa&meta_color=777777&accent_color=ffffff&logo_color=ffffff" alt="Spotify recently played"/>
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=0u3yuytf0yefzbo6zp16n16lo&footer=wave&count=3&bg_color=000000&text_color=ffffff&artist_color=aaaaaa&meta_color=777777&accent_color=ffffff&logo_color=ffffff" alt="Spotify recently played"/>
   </a>
 </p>
 
