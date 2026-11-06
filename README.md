@@ -106,7 +106,7 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 ### ◇ Formación Académica
 - **2º DAW (Desarrollo de Aplicaciones Web)**<br>
   *Institut Montilivi* · En curso (actual)
-- **1º DAM / DAW (Tronco común Multiplataforma & Web)**<br>
+- **1º DAM / DAW (Multiplataforma & Web)**<br>
   *Institut Montilivi*
 - **Bachillerato Científico - Tecnológico**<br>
   Base analítica, matemática y científica.
@@ -119,7 +119,7 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 ### ◇ Idiomas
 - **Catalán:** Nativo
 - **Español:** Nativo
-- **Inglés:** Nivel C1 *(Avanzado / Fluido profesional)*
+- **Inglés:** Nivel C1 *(Avanzado / Fluido)*
 - **Italiano:** Intermedio - Alto
 - **Francés:** Intermedio
 
