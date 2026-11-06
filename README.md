@@ -39,30 +39,22 @@
 | **GPT** | Generación de código, documentación y resolución de dudas técnicas |
 | **Gemini** | Análisis de código, razonamiento técnico y asistencia en desarrollo |
 
-### 🏗️ Arquitecturas que puedo construir
-
-- **Monolito web clásico:** PHP + Symfony + Apache + SQL (servidor tradicional)
-- **Aplicación full stack moderna:** JavaScript (React/Vue) + PHP/Symfony + SQL/NoSQL + Docker
-- **API RESTful:** PHP/Symfony como backend con base de datos SQL o NoSQL
-- **Aplicación con asistencia de IA:** integración de GPT/Gemini/Claude Code en flujos de desarrollo y revisión de código
-- **Despliegue contenedorizado:** Docker + Apache para entornos de producción y desarrollo
-
 ---
 
-## 🔮 Future Projects
+## 🔮 Próximos Proyectos & Roadmap
 
-Todo lo que estoy construyendo o tengo en carpeta. Algunos en activo, otros en exploración.
+Proyectos personales, plataformas web y herramientas que estoy diseñando y desarrollando activamente.
 
-| Proyecto | Descripción | Estado |
-|----------|-------------|--------|
-| **[uni](https://github.com/enricmasella/uni)** | Suite de herramientas gratuitas para estudiantes de selectividad (PAU): calculadora de nota, ponderaciones, notas de corte, simulador de acceso y un catálogo de utilidades de estudio (conversores, eliminador de fondos, descargador de vídeos, planificador, pomodoro). Stack: Next.js 16, React 19, Tailwind 4, GSAP, Drizzle ORM, PostgreSQL, pnpm. | 🚧 En desarrollo |
-| **[NK_Chess](https://github.com/enricmasella/NK_Chess)** | Plataforma de ajedrez educativo de código abierto: catálogo de cursos con estudios jugables y ejercicios que se corrigen solos. Sin cuentas, sin backend, sin vídeos. | 🚧 En desarrollo |
-| **[SnapRoulette](https://github.com/enricmasella/SnapRoulette)** | Party game multijugador en tiempo real. Cada jugador sube fotos y vídeos; la sala mezcla los pools y hay que adivinar de quién es cada medio antes de que desaparezca. Stack: Node.js, TypeScript, Socket.IO, React, Tailwind 4, Docker. | 🚧 En desarrollo |
-| **[NK_Terminal_v2](https://github.com/enricmasella/NK_Terminal_v2)** | Extensión de Chrome (Manifest V3): nueva pestaña con terminal retro, dashboard con chat de IA, widgets de clima, CPU, memoria y sistema de comandos extensible. | 📦 Carpeta en gitProjects |
-| **[Nothing_NK](https://github.com/enricmasella/Nothing_NK)** | App Android (Kotlin) de análisis y guía de componentes del Nothing Phone, con modificaciones y desensamblado de recursos. | 📦 Carpeta en gitProjects |
-| **[portfolio_NK](https://github.com/enricmasella/portfolio_NK)** | Portfolio web personal con Three.js, Lenis y animaciones. Presentación como desarrollador web en Girona. | 📦 Carpeta en gitProjects |
+| Proyecto | Descripción | Tipo | Estado |
+|----------|-------------|------|--------|
+| **[uni](https://github.com/enricmasella/uni)** | Suite de herramientas gratuitas para estudiantes de selectividad (PAU): cálculo de notas, ponderaciones, notas de corte, simulador de acceso y utilidades de estudio. | Web Platform (Next.js 16, PostgreSQL) | 🚧 En desarrollo |
+| **[NK_Chess](https://github.com/enricmasella/NK_Chess)** | Plataforma de ajedrez educativo interactivo: cursos con estudios dinámicos y ejercicios autocorregibles sin backend ni cuentas. | Web App (React, Vite, chess.js) | 🚧 En desarrollo |
+| **[SnapRoulette](https://github.com/enricmasella/SnapRoulette)** | Party game multijugador en tiempo real con salas privadas donde adivinar el autor de fotos y vídeos antes de que desaparezcan. | Real-time Multiplayer (Node.js, Socket.IO) | 🚧 En desarrollo |
+| **[NK_Terminal_v2](https://github.com/enricmasella/NK_Terminal_v2)** | Extensión de productividad (Manifest V3): nueva pestaña estilo terminal retro, dashboard interactivo con IA y widgets de sistema. | Chrome Extension | 🧪 Prototipo |
+| **[portfolio_NK](https://github.com/enricmasella/portfolio_NK)** | Portfolio web interactivo con animaciones fluidas, scroll cinemático y elementos 3D. | Web 3D (Three.js, Lenis) | 🚀 Próximamente |
+| **[Nothing_NK](https://github.com/enricmasella/Nothing_NK)** | Exploración y guía técnica de arquitectura de componentes para dispositivos Nothing. | Android (Kotlin) | 🔬 Experimental |
 
-> Nota: los proyectos marcados como "en desarrollo" están activos y reciben actualizaciones. Los marcados como "carpeta en gitProjects" están en mi espacio local y se irán publicando según avance cada uno.
+> 💡 *Proyectos en constante evolución. Los repositorios se publican y actualizan a medida que alcanzan versiones estables.*
 
 ---
 
