@@ -19,7 +19,7 @@
 <h1 align="center">Enric Masella</h1>
 
 <p align="center">
-  <b>Desarrollador Full Stack en formación (2º DAW) · Buscando Prácticas en Desarrollo Web & Software</b><br>
+  <b>Desarrollador Full Stack en formación (2º DAW) · Desarrollo Web & Software</b><br>
   <i>Girona, Catalunya</i>
 </p>
 
@@ -30,15 +30,16 @@
 </p>
 
 <p align="center">
-Estudiante de Desarrollo de Aplicaciones Web con base científico-tecnológica y enfoque metódico en la resolución de problemas lógicos y técnicos. Combino fundamentos sólidos de desarrollo web con flujos de trabajo avanzados asistidos por IA para acelerar el aprendizaje y la construcción de software limpio, mantenible y escalable.<br>
-Practico Artes Marciales Mixtas (MMA) y toco el piano y la batería: disciplinas que me aportan constancia, foco y alta tolerancia al trabajo bajo presión.
+<p>
+Estudiante de Desarrollo de Aplicaciones Web con formación científica y un enfoque analítico hacia los retos técnicos. Me adapto con rapidez a los cambios, integrando herramientas modernas y flujos de trabajo asistidos por IA para optimizar el aprendizaje, acelerar el desarrollo y estructurar código limpio y eficiente.<br>
+Traslado a mi día a día profesional la disciplina, el foco y el nivel de concentración que exige la práctica de artes marciales y la ejecución musical.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/enricmasella">
+  <a href="https://linkedin.com/in/enric-masella">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://enricmasella.com">
+  <a href="https://nk-dev.site">
     <img src="https://img.shields.io/badge/Portfolio-FF3E00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:nkdevelopmentss@gmail.com">
@@ -103,33 +104,26 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
   *Institut Montilivi*
 - **Bachillerato Científico - Tecnológico**<br>
   Base analítica, matemática y científica.
-- 🎯 *Proyección:* Continuar con el ciclo de DAM tras DAW para completar la doble titulación y consolidar un perfil Full Stack / Multiplataforma.
+  
+🎯 *Proyección:* Continuar con el ciclo de DAM tras DAW para completar la doble titulación y consolidar un perfil Full Stack / Multiplataforma.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Idiomas
 - **Catalán:** Nativo
+  
 - **Español:** Nativo
-- **Inglés:** Nivel C1 (Avanzado / Fluido profesional)
+  
+- **Inglés:** Nivel C1 (Avanzado)
+  
 - **Italiano:** Intermedio - Alto
+  
 - **Francés:** Intermedio
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enricmasella&show_icons=true&theme=tokyonight&hide_border=true" alt="Enric's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricmasella&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
 
 ---
 
