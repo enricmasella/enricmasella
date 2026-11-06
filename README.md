@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Enric%20Masella&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20en%20formaci%C3%B3n%20%C2%B7%202%C2%BA%20DAW&descSize=18&descAlign=50&descAlignY=60" alt="Enric Masella Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=black&height=220&section=header&text=Enric%20Masella&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20en%20formaci%C3%B3n%20%C2%B7%202%C2%BA%20DAW&descSize=18&descAlign=50&descAlignY=60" alt="Enric Masella Banner" />
 </div>
 
 <div align="center">
