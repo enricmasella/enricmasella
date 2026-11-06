@@ -15,9 +15,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n+(2%C2%BA+DAW);AI-Assisted+Workflow+%26+Modern+Web;PHP+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+SQL+%C2%B7+Docker;MMA+%2B+Piano+%26+Bater%C3%ADa+(Disciplina+%26+Foco)">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=000000&center=true&vCenter=true&width=560&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n+(2%C2%BA+DAW);AI-Assisted+Workflow+%26+Modern+Web;PHP+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+SQL+%C2%B7+Docker;MMA+%2B+Piano+%26+Bater%C3%ADa+(Disciplina+%26+Foco)">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=555555&center=true&vCenter=true&width=560&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n+(2%C2%BA+DAW);AI-Assisted+Workflow+%26+Modern+Web;PHP+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+SQL+%C2%B7+Docker;MMA+%2B+Piano+%26+Bater%C3%ADa+(Disciplina+%26+Foco)" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n+(2%C2%BA+DAW);AI-Assisted+Workflow+%26+Modern+Web;Ingl%C3%A9s+C1+%C2%B7+Italiano+Intermedio-Alto+%C2%B7+Franc%C3%A9s+Intermedio">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n+(2%C2%BA+DAW);AI-Assisted+Workflow+%26+Modern+Web;Ingl%C3%A9s+C1+%C2%B7+Italiano+Intermedio-Alto+%C2%B7+Franc%C3%A9s+Intermedio">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=555555&center=true&vCenter=true&width=650&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n+(2%C2%BA+DAW);AI-Assisted+Workflow+%26+Modern+Web;Ingl%C3%A9s+C1+%C2%B7+Italiano+Intermedio-Alto+%C2%B7+Franc%C3%A9s+Intermedio" alt="Typing SVG" />
   </picture>
 </div>
 
