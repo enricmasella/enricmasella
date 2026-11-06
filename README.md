@@ -129,7 +129,7 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 
 ---
 
-## ◈ Actualmente escuchando
+## ◈ Listening..
 
 <p align="center">
   <a href="https://open.spotify.com/user/0u3yuytf0yefzbo6zp16n16lo" target="_blank">
@@ -163,7 +163,7 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 ---
 
 <div align="center">
-  <h3>◈ Retro Arcade Activity · Galaga Contribution Graph</h3>
+  <h3>◈ Galaga Contribution Graph</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph.svg">
