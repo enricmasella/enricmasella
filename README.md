@@ -55,7 +55,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## ◈ Stack Tecnológico
 
 | Categoría | Tecnologías | Para qué / Enfoque |
 |-----------|-------------|---------------------|
@@ -67,7 +67,7 @@
 | **Control de versiones** | [![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions) | Flujos de trabajo, ramas, code review y CI/CD |
 | **AI-Assisted Workflow** | [![OmniRoute](https://img.shields.io/badge/OmniRoute-000000?style=flat-square)](https://github.com) [![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square)](https://github.com) [![Hermes](https://img.shields.io/badge/Hermes-000000?style=flat-square)](https://github.com) [![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai) [![GPT](https://img.shields.io/badge/GPT-000000?style=flat-square&logo=openai&logoColor=white)](https://openai.com) [![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini/) | Orquestación de modelos, agentes autónomos de coding y aprendizaje continuo |
 
-### 🤖 Herramientas de IA & Flujo de Desarrollo
+### ◇ Herramientas de IA & Flujo de Desarrollo
 
 | Herramienta | Utilidad y Aplicación en mi Flujo |
 |-------------|-----------------------------------|
@@ -80,7 +80,7 @@
 
 ---
 
-## 🔮 Próximos Proyectos & Roadmap
+## ◈ Próximos Proyectos & Roadmap
 
 Proyectos personales, plataformas web y herramientas que estoy diseñando y desarrollando activamente.
 
@@ -93,17 +93,17 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 | **[portfolio_NK](https://github.com/enricmasella/portfolio_NK)** | Portfolio web interactivo con animaciones fluidas, scroll cinemático y elementos 3D. | Web 3D *(Three.js, Lenis)* | `Próximamente` |
 | **[Nothing_NK](https://github.com/enricmasella/Nothing_NK)** | Exploración y guía técnica de arquitectura de componentes para dispositivos Nothing. | Android *(Kotlin)* | `Experimental` |
 
-> 💡 *Proyectos en constante evolución. Los repositorios se publican y actualizan a medida que alcanzan versiones estables.*
+> ◇ *Proyectos en constante evolución. Los repositorios se publican y actualizan a medida que alcanzan versiones estables.*
 
 ---
 
-## 🎓 Formación & 🌐 Idiomas
+## ◈ Formación & Idiomas
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Formación Académica
+### ◇ Formación Académica
 - **2º DAW (Desarrollo de Aplicaciones Web)**<br>
   *Institut Montilivi* · En curso (actual)
 - **1º DAM / DAW (Tronco común Multiplataforma & Web)**<br>
@@ -111,12 +111,12 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 - **Bachillerato Científico - Tecnológico**<br>
   Base analítica, matemática y científica.
   
-🎯 *Proyección:* Continuar con el ciclo de DAM tras DAW para completar la doble titulación y consolidar un perfil Full Stack / Multiplataforma.
+◇ *Proyección:* Continuar con el ciclo de DAM tras DAW para completar la doble titulación y consolidar un perfil Full Stack / Multiplataforma.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Idiomas
+### ◇ Idiomas
 - **Catalán:** Nativo
 - **Español:** Nativo
 - **Inglés:** Nivel C1 *(Avanzado / Fluido profesional)*
@@ -129,7 +129,7 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 
 ---
 
-## 🎵 Actualmente escuchando
+## ◈ Actualmente escuchando
 
 <p align="center">
   <a href="https://open.spotify.com/user/0u3yuytf0yefzbo6zp16n16lo" target="_blank">
@@ -139,7 +139,7 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 
 ---
 
-## 📬 Contacto
+## ◈ Contacto
 
 <p align="center">
   <a href="https://linkedin.com/in/enric-masella" target="_blank">
@@ -163,7 +163,7 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 ---
 
 <div align="center">
-  <h3>👾 Retro Arcade Activity · Galaga Contribution Graph</h3>
+  <h3>◈ Retro Arcade Activity · Galaga Contribution Graph</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph.svg">
