@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=70&section=header">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=70&section=header">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=70&section=header" alt="Header Wave" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header" alt="Header Wave" />
   </picture>
 </div>
 
@@ -133,7 +133,7 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 
 <p align="center">
   <a href="https://open.spotify.com/user/0u3yuytf0yefzbo6zp16n16lo" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0u3yuytf0yefzbo6zp16n16lo&count=1&unique=false" alt="Spotify recently played"/>
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=0u3yuytf0yefzbo6zp16n16lo&count=1&bg_color=000000&text_color=ffffff&artist_color=aaaaaa&meta_color=777777&accent_color=ffffff&logo_color=ffffff" alt="Spotify recently played"/>
   </a>
 </p>
 
