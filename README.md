@@ -1,17 +1,30 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=black&height=220&section=header&text=Enric%20Masella&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20en%20formaci%C3%B3n%20%C2%B7%202%C2%BA%20DAW&descSize=18&descAlign=50&descAlignY=60" alt="Enric Masella Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=70&section=header">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=70&section=header">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=70&section=header" alt="Header Wave" />
+  </picture>
 </div>
 
+<h1 align="center">Enric Masella</h1>
+
+<p align="center">
+  <b>Desarrollador Full Stack en formación (2º DAW) · Desarrollo Web & Software</b><br>
+  <i>Girona, Catalunya</i>
+</p>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=22C55E&center=true&vCenter=true&width=560&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n+(2%C2%BA+DAW);AI-Assisted+Workflow+%26+Modern+Web;PHP+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+SQL+%C2%B7+Docker;MMA+%2B+Piano+%26+Bater%C3%ADa+(Disciplina+%26+Foco)" alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n+(2%C2%BA+DAW);AI-Assisted+Workflow+%26+Modern+Web;PHP+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+SQL+%C2%B7+Docker;MMA+%2B+Piano+%26+Bater%C3%ADa+(Disciplina+%26+Foco)">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=000000&center=true&vCenter=true&width=560&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n+(2%C2%BA+DAW);AI-Assisted+Workflow+%26+Modern+Web;PHP+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+SQL+%C2%B7+Docker;MMA+%2B+Piano+%26+Bater%C3%ADa+(Disciplina+%26+Foco)">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=555555&center=true&vCenter=true&width=560&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n+(2%C2%BA+DAW);AI-Assisted+Workflow+%26+Modern+Web;PHP+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+SQL+%C2%B7+Docker;MMA+%2B+Piano+%26+Bater%C3%ADa+(Disciplina+%26+Foco)" alt="Typing SVG" />
+  </picture>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estado-Buscando%20Prácticas-success?style=for-the-badge&logo=briefcase&logoColor=white" alt="Buscando Prácticas"/>
-  <img src="https://img.shields.io/badge/Inglés-Nivel%20C1%20Avanzado-0A66C2?style=for-the-badge&logo=google-translate&logoColor=white" alt="Inglés C1"/>
-  <img src="https://img.shields.io/badge/Ubicación-Girona%2C%20ES-E4405F?style=for-the-badge&logo=google-maps&logoColor=white" alt="Ubicación"/>
+  <img src="https://img.shields.io/badge/Estado-Buscando%20Prácticas-000000?style=for-the-badge&logo=briefcase&logoColor=white" alt="Buscando Prácticas"/>
+  <img src="https://img.shields.io/badge/Inglés-Nivel%20C1%20Avanzado-000000?style=for-the-badge&logo=google-translate&logoColor=white" alt="Inglés C1"/>
+  <img src="https://img.shields.io/badge/Ubicación-Girona%2C%20ES-000000?style=for-the-badge&logo=google-maps&logoColor=white" alt="Ubicación"/>
 </p>
 
 <table align="center" width="100%">
@@ -27,16 +40,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/enric-masella" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://nk-dev.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF3E00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://instagram.com/enric.masella" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:nkdevelopmentss@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -46,13 +59,13 @@
 
 | Categoría | Tecnologías | Para qué / Enfoque |
 |-----------|-------------|---------------------|
-| **Frontend** | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript) | Maquetación semántica y lógica de cliente |
-| **Frontend (en aprendizaje)** | [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev) [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org) | Arquitectura por componentes y SPAs |
-| **Backend** | [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net) [![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)](https://symfony.com) [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://learn.microsoft.com/es-es/dotnet/csharp/) | Lógica de servidor, arquitectura MVC y APIs |
-| **Bases de datos** | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org) [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org) [![NoSQL](https://img.shields.io/badge/NoSQL-4EAA25?style=flat-square)](https://es.wikipedia.org/wiki/NoSQL) | Modelado relacional, consultas y persistencia |
-| **DevOps & Sistemas** | [![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)](https://httpd.apache.org) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org) | Contenedores, despliegue y servidores web |
-| **Control de versiones** | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions) | Flujos de trabajo, ramas, code review y CI/CD |
-| **AI-Assisted Workflow** | [![OmniRoute](https://img.shields.io/badge/OmniRoute-7C3AED?style=flat-square)](https://github.com) [![OpenCode](https://img.shields.io/badge/OpenCode-0EA5E9?style=flat-square)](https://github.com) [![Hermes](https://img.shields.io/badge/Hermes-10B981?style=flat-square)](https://github.com) [![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai) [![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com) [![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini/) | Orquestación de modelos, agentes autónomos de coding y aprendizaje continuo |
+| **Frontend** | [![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/es/docs/Web/JavaScript) | Maquetación semántica y lógica de cliente |
+| **Frontend (en aprendizaje)** | [![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)](https://react.dev) [![Vue](https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org) | Arquitectura por componentes y SPAs |
+| **Backend** | [![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white)](https://php.net) [![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)](https://symfony.com) [![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white)](https://learn.microsoft.com/es-es/dotnet/csharp/) | Lógica de servidor, arquitectura MVC y APIs |
+| **Bases de datos** | [![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org) [![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org) [![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=flat-square)](https://es.wikipedia.org/wiki/NoSQL) | Modelado relacional, consultas y persistencia |
+| **DevOps & Sistemas** | [![Apache](https://img.shields.io/badge/Apache-000000?style=flat-square&logo=apache&logoColor=white)](https://httpd.apache.org) [![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)](https://docker.com) [![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)](https://kernel.org) | Contenedores, despliegue y servidores web |
+| **Control de versiones** | [![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions) | Flujos de trabajo, ramas, code review y CI/CD |
+| **AI-Assisted Workflow** | [![OmniRoute](https://img.shields.io/badge/OmniRoute-000000?style=flat-square)](https://github.com) [![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square)](https://github.com) [![Hermes](https://img.shields.io/badge/Hermes-000000?style=flat-square)](https://github.com) [![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai) [![GPT](https://img.shields.io/badge/GPT-000000?style=flat-square&logo=openai&logoColor=white)](https://openai.com) [![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini/) | Orquestación de modelos, agentes autónomos de coding y aprendizaje continuo |
 
 ### 🤖 Herramientas de IA & Flujo de Desarrollo
 
@@ -73,12 +86,12 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 
 | Proyecto | Descripción | Tipo | Estado |
 |----------|-------------|:----:|:------:|
-| **[uni](https://github.com/enricmasella/uni)** | Suite de herramientas gratuitas para estudiantes de selectividad (PAU): cálculo de notas, ponderaciones, notas de corte, simulador de acceso y utilidades de estudio. | Web Platform *(Next.js 16, PostgreSQL)* | `🚧 En desarrollo` |
-| **[NK_Chess](https://github.com/enricmasella/NK_Chess)** | Plataforma de ajedrez educativo interactivo: cursos con estudios dinámicos y ejercicios autocorregibles sin backend ni cuentas. | Web App *(React, Vite, chess.js)* | `🚧 En desarrollo` |
-| **[SnapRoulette](https://github.com/enricmasella/SnapRoulette)** | Party game multijugador en tiempo real con salas privadas donde adivinar el autor de fotos y vídeos antes de que desaparezcan. | Real-time Multiplayer *(Node.js, Socket.IO)* | `🚧 En desarrollo` |
-| **[NK_Terminal_v2](https://github.com/enricmasella/NK_Terminal_v2)** | Extensión de productividad (Manifest V3): nueva pestaña estilo terminal retro, dashboard interactivo con IA y widgets de sistema. | Chrome Extension | `🧪 Prototipo` |
-| **[portfolio_NK](https://github.com/enricmasella/portfolio_NK)** | Portfolio web interactivo con animaciones fluidas, scroll cinemático y elementos 3D. | Web 3D *(Three.js, Lenis)* | `🚀 Próximamente` |
-| **[Nothing_NK](https://github.com/enricmasella/Nothing_NK)** | Exploración y guía técnica de arquitectura de componentes para dispositivos Nothing. | Android *(Kotlin)* | `🔬 Experimental` |
+| **[uni](https://github.com/enricmasella/uni)** | Suite de herramientas gratuitas para estudiantes de selectividad (PAU): cálculo de notas, ponderaciones, notas de corte, simulador de acceso y utilidades de estudio. | Web Platform *(Next.js 16, PostgreSQL)* | `En desarrollo` |
+| **[NK_Chess](https://github.com/enricmasella/NK_Chess)** | Plataforma de ajedrez educativo interactivo: cursos con estudios dinámicos y ejercicios autocorregibles sin backend ni cuentas. | Web App *(React, Vite, chess.js)* | `En desarrollo` |
+| **[SnapRoulette](https://github.com/enricmasella/SnapRoulette)** | Party game multijugador en tiempo real con salas privadas donde adivinar el autor de fotos y vídeos antes de que desaparezcan. | Real-time Multiplayer *(Node.js, Socket.IO)* | `En desarrollo` |
+| **[NK_Terminal_v2](https://github.com/enricmasella/NK_Terminal_v2)** | Extensión de productividad (Manifest V3): nueva pestaña estilo terminal retro, dashboard interactivo con IA y widgets de sistema. | Chrome Extension | `Prototipo` |
+| **[portfolio_NK](https://github.com/enricmasella/portfolio_NK)** | Portfolio web interactivo con animaciones fluidas, scroll cinemático y elementos 3D. | Web 3D *(Three.js, Lenis)* | `Próximamente` |
+| **[Nothing_NK](https://github.com/enricmasella/Nothing_NK)** | Exploración y guía técnica de arquitectura de componentes para dispositivos Nothing. | Android *(Kotlin)* | `Experimental` |
 
 > 💡 *Proyectos en constante evolución. Los repositorios se publican y actualizan a medida que alcanzan versiones estables.*
 
@@ -104,11 +117,11 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 <td width="50%" valign="top">
 
 ### 🌐 Idiomas
-- 🏴 **Catalán:** Nativo
-- 🇪🇸 **Español:** Nativo
-- 🇬🇧 **Inglés:** Nivel C1 *(Avanzado / Fluido profesional)*
-- 🇮🇹 **Italiano:** Intermedio - Alto
-- 🇫🇷 **Francés:** Intermedio
+- **Catalán:** Nativo
+- **Español:** Nativo
+- **Inglés:** Nivel C1 *(Avanzado / Fluido profesional)*
+- **Italiano:** Intermedio - Alto
+- **Francés:** Intermedio
 
 </td>
 </tr>
@@ -130,21 +143,21 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 
 <p align="center">
   <a href="https://linkedin.com/in/enric-masella" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://nk-dev.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF3E00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://instagram.com/enric.masella" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:nkdevelopmentss@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=enricmasella.enricmasella&left_color=black&right_color=seagreen&left_text=Viewers" alt="Visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=enricmasella.enricmasella&left_color=black&right_color=black&left_text=Viewers" alt="Visitors"/>
 </p>
 
 ---
@@ -159,7 +172,11 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&reversal=false&color=auto" alt="Footer divider" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=70&section=footer&reversal=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=70&section=footer&reversal=false">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=70&section=footer&reversal=false" alt="Footer divider" />
+  </picture>
 </div>
 
-<p align="center"><i>Diseñado y construido con ❤️ y código abierto por <a href="https://github.com/enricmasella">Enric Masella</a>.</i></p>
+<p align="center"><i>Diseñado y construido con código abierto por <a href="https://github.com/enricmasella">Enric Masella</a>.</i></p>
