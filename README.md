@@ -1,21 +1,3 @@
-<div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph.svg">
-  <img alt="Loading Galaga..." src="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph.svg">
-</picture>
-
-<br clear="both">
-
-<div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined" />
-</div>
-
----
-
 <h1 align="center">Enric Masella</h1>
 
 <p align="center">
@@ -154,6 +136,23 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=enricmasella.enricmasella&left_color=black&right_color=seagreen&left_text=Viewers" alt="Visitors"/>
 </p>
+
+---
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph.svg">
+  <img alt="Loading Galaga..." src="https://raw.githubusercontent.com/enricmasella/enricmasella/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
+<br clear="both">
+
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined" />
+</div>
 
 ---
 
