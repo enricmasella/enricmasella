@@ -16,21 +16,14 @@
 
 ---
 
-## 🛠️ Formación — Ciclo DAW-DAM (Institut Montilivi)
+## 🛠️ Stack Tecnológico
 
-| Mòdul | Contenido | Tecnologías implicadas |
-|-------|-----------|------------------------|
-| **0484** Bases de dades | Bases de datos relacionales, modelado, consultas | SQL, BBDD relacional |
-| **0487** Entorns de desenvolupament | Entornos de desarrollo, herramientas de trabajo | Git, IDEs, entornos de desarrollo |
-| **Optatiu** Desenvolupament de projectes Web | Proyectos web integrales, ABP | Desarrollo web full stack |
-| **0612** Desenvolupament web en entorn client | Frontend, interfaz de usuario | HTML, CSS, JavaScript |
-| **0613** Desenvolupament web en entorn servidor | Backend, lógica de servidor | PHP, Node.js, servidores web |
-| **0614** Desplegament d'aplicacions web | Despliegue, servidores, producción | Servidores, despliegue web |
-| **0615** Disseny d'interfícies web | UI/UX, diseño de interfaces | Diseño web, maquetación |
-| **1665** Digitalització | Transformación digital, herramientas | Herramientas digitales |
-| **ABP** Aprenentatge Basat en Projectes | Aprendizaje basado en proyectos, 2n DAW | Proyecto integrador DAW |
-
-*Curso: DAM-DAW · Mòduls 0484, 0487, optatiu, 0612, 0613, 0614, 0615, 1665 · ABP 2n DAW*
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Lenguajes** | JavaScript, PHP, SQL, HTML, CSS |
+| **Diseño** | Figma |
+| **Bases de datos** | PostgreSQL, MySQL, SQLite |
+| **Herramientas** | Git, GitHub Actions, Docker |
 
 ---
 
