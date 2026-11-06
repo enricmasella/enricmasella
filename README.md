@@ -18,12 +18,34 @@
 
 ## 🛠️ Stack Tecnológico
 
-| Categoría | Tecnologías |
-|-----------|-------------|
-| **Lenguajes** | JavaScript, PHP, SQL, HTML, CSS |
-| **Diseño** | Figma |
-| **Bases de datos** | PostgreSQL, MySQL, SQLite |
-| **Herramientas** | Git, GitHub Actions, Docker |
+| Categoría | Tecnologías | Para qué / Estado |
+|-----------|-------------|-------------------|
+| **Frontend** | HTML5, CSS3, JavaScript | Maquetación y lógica de cliente |
+| **Frontend (aprendiendo)** | React, Vue | Componentes y SPA |
+| **Backend** | PHP, Symfony | Lógica de servidor y APIs |
+| **Bases de datos** | SQL, NoSQL | Almacenamiento relacional y no relacional |
+| **DevOps** | Apache, Docker | Despliegue de servidores web y contenedores |
+| **Control de versiones** | Git, GitHub, GitHub Actions | Código, repositorio y CI/CD |
+| **AI-Assisted Workflow** | OmniRoute, OpenCode, Hermes, Claude Code, GPT, Gemini | Orquestación de modelos, agentes de coding, autocompletado, revisión de código y aprendizaje continuo |
+
+### 🤖 Herramientas de IA que uso
+
+| Herramienta | Para qué sirve |
+|-------------|----------------|
+| **OmniRoute** | Enrutador de modelos de lenguaje mediante gateway local (OmniRoute) |
+| **OpenCode** | Agente de coding autónomo para desarrollo y revisión de código |
+| **Hermes** | Orquestador de agentes y habilidades para automatizar flujos de desarrollo |
+| **Claude Code** | Asistente de código avanzado para programación, refactorización y debugging |
+| **GPT** | Generación de código, documentación y resolución de dudas técnicas |
+| **Gemini** | Análisis de código, razonamiento técnico y asistencia en desarrollo |
+
+### 🏗️ Arquitecturas que puedo construir
+
+- **Monolito web clásico:** PHP + Symfony + Apache + SQL (servidor tradicional)
+- **Aplicación full stack moderna:** JavaScript (React/Vue) + PHP/Symfony + SQL/NoSQL + Docker
+- **API RESTful:** PHP/Symfony como backend con base de datos SQL o NoSQL
+- **Aplicación con asistencia de IA:** integración de GPT/Gemini/Claude Code en flujos de desarrollo y revisión de código
+- **Despliegue contenedorizado:** Docker + Apache para entornos de producción y desarrollo
 
 ---
 
