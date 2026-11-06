@@ -155,5 +155,3 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 </div>
 
 ---
-
-<p align="center"><i>Construido con ❤️ y código abierto por <a href="https://github.com/enricmasella">Enric Masella</a>.</i></p>
