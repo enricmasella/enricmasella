@@ -122,10 +122,10 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 ## 📫 Conectemos
 
 <p align="center">
-  <a href="https://linkedin.com/in/enricmasella">
+  <a href="https://linkedin.com/in/enric-masella">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://enricmasella.com">
+  <a href="https://nk-dev.site">
     <img src="https://img.shields.io/badge/Portfolio-FF3E00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:nkdevelopmentss@gmail.com">
