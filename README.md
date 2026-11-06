@@ -16,28 +16,60 @@
 
 ---
 
+<h1 align="center">Enric Masella</h1>
+
+<p align="center">
+  <b>Desarrollador Full Stack en formación (2º DAW) · Buscando Prácticas en Desarrollo Web & Software</b><br>
+  <i>Girona, Catalunya</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Buscando%20Prácticas-success?style=for-the-badge&logo=briefcase&logoColor=white" alt="Buscando Prácticas"/>
+  <img src="https://img.shields.io/badge/Inglés-Nivel%20C1%20Avanzado-0A66C2?style=for-the-badge&logo=google-translate&logoColor=white" alt="Inglés C1"/>
+  <img src="https://img.shields.io/badge/Ubicación-Girona%2C%20ES-E4405F?style=for-the-badge&logo=google-maps&logoColor=white" alt="Ubicación"/>
+</p>
+
+<p align="center">
+Estudiante de Desarrollo de Aplicaciones Web con base científico-tecnológica y enfoque metódico en la resolución de problemas lógicos y técnicos. Combino fundamentos sólidos de desarrollo web con flujos de trabajo avanzados asistidos por IA para acelerar el aprendizaje y la construcción de software limpio, mantenible y escalable.<br>
+Practico Artes Marciales Mixtas (MMA) y toco el piano y la batería: disciplinas que me aportan constancia, foco y alta tolerancia al trabajo bajo presión.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/enricmasella">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://enricmasella.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF3E00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:nkdevelopmentss@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
 ## 🛠️ Stack Tecnológico
 
-| Categoría | Tecnologías | Para qué / Estado |
-|-----------|-------------|-------------------|
-| **Frontend** | HTML5, CSS3, JavaScript | Maquetación y lógica de cliente |
-| **Frontend (aprendiendo)** | React, Vue | Componentes y SPA |
-| **Backend** | PHP, Symfony | Lógica de servidor y APIs |
-| **Bases de datos** | SQL, NoSQL | Almacenamiento relacional y no relacional |
-| **DevOps** | Apache, Docker | Despliegue de servidores web y contenedores |
-| **Control de versiones** | Git, GitHub, GitHub Actions | Código, repositorio y CI/CD |
-| **AI-Assisted Workflow** | OmniRoute, OpenCode, Hermes, Claude Code, GPT, Gemini | Orquestación de modelos, agentes de coding, autocompletado, revisión de código y aprendizaje continuo |
+| Categoría | Tecnologías | Para qué / Enfoque |
+|-----------|-------------|---------------------|
+| **Frontend** | HTML5, CSS3, JavaScript | Maquetación semántica y lógica de cliente |
+| **Frontend (en aprendizaje)** | React, Vue | Arquitectura por componentes y SPAs |
+| **Backend** | PHP, Symfony, C# | Lógica de servidor, arquitectura MVC y APIs |
+| **Bases de datos** | SQL (MySQL, PostgreSQL, SQLite), NoSQL | Modelado relacional, consultas y persistencia |
+| **DevOps & Sistemas** | Apache, Docker, Linux | Contenedores, despliegue y servidores web |
+| **Control de versiones** | Git, GitHub, GitHub Actions | Flujos de trabajo, ramas, code review y CI/CD |
+| **AI-Assisted Workflow** | OmniRoute, OpenCode, Hermes, Claude Code, GPT, Gemini | Orquestación de modelos, agentes autónomos de coding y aprendizaje continuo |
 
-### 🤖 Herramientas de IA que uso
+### 🤖 Herramientas de IA & Flujo de Desarrollo
 
-| Herramienta | Para qué sirve |
-|-------------|----------------|
-| **OmniRoute** | Enrutador de modelos de lenguaje mediante gateway local (OmniRoute) |
-| **OpenCode** | Agente de coding autónomo para desarrollo y revisión de código |
-| **Hermes** | Orquestador de agentes y habilidades para automatizar flujos de desarrollo |
-| **Claude Code** | Asistente de código avanzado para programación, refactorización y debugging |
-| **GPT** | Generación de código, documentación y resolución de dudas técnicas |
-| **Gemini** | Análisis de código, razonamiento técnico y asistencia en desarrollo |
+| Herramienta | Utilidad y Aplicación en mi Flujo |
+|-------------|-----------------------------------|
+| **OmniRoute** | Gateway y enrutador local de modelos LLM para desarrollo y pruebas eficientes |
+| **OpenCode** | Agente autónomo de coding para desarrollo, tests y revisión continua de código |
+| **Hermes** | Orquestación de agentes con skills y ejecución de tareas complejas en local |
+| **Claude Code** | Asistente de programación avanzada para refactorización, debugging y arquitectura |
+| **GPT** | Generación de código, diseño de soluciones técnicas y redacción de documentación |
+| **Gemini** | Análisis de repositorios extensos, razonamiento contextual y soporte técnico |
 
 ---
 
@@ -55,6 +87,37 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 | **[Nothing_NK](https://github.com/enricmasella/Nothing_NK)** | Exploración y guía técnica de arquitectura de componentes para dispositivos Nothing. | Android (Kotlin) | 🔬 Experimental |
 
 > 💡 *Proyectos en constante evolución. Los repositorios se publican y actualizan a medida que alcanzan versiones estables.*
+
+---
+
+## 🎓 Formación & 🌐 Idiomas
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Formación Académica
+- **2º DAW (Desarrollo de Aplicaciones Web)**<br>
+  *Institut Montilivi* · En curso (actual)
+- **1º DAM / DAW (Tronco común Multiplataforma & Web)**<br>
+  *Institut Montilivi*
+- **Bachillerato Científico - Tecnológico**<br>
+  Base analítica, matemática y científica.
+- 🎯 *Proyección:* Continuar con el ciclo de DAM tras DAW para completar la doble titulación y consolidar un perfil Full Stack / Multiplataforma.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Idiomas
+- **Catalán:** Nativo
+- **Español:** Nativo
+- **Inglés:** Nivel C1 (Avanzado / Fluido profesional)
+- **Italiano:** Intermedio - Alto
+- **Francés:** Intermedio
+
+</td>
+</tr>
+</table>
 
 ---
 
