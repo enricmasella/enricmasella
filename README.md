@@ -16,33 +16,21 @@
 
 ---
 
-<h1 align="center">Enric Masella</h1>
-<p align="center">Desarrollador Full Stack y Software Engineer en Girona. Estudio DAW, trabajo con PHP, C#, JavaScript y SQL, y busco prácticas. Construyo productos web con foco en experiencia de usuario, código mantenible y arquitecturas que escalan.</p>
+## 🛠️ Formación — Ciclo DAW-DAM (Institut Montilivi)
 
-<p align="center">
-  <a href="https://linkedin.com/in/enricmasella">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://enricmasella.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF3E00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:nkdevelopmentss@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+| Mòdul | Contenido | Tecnologías implicadas |
+|-------|-----------|------------------------|
+| **0484** Bases de dades | Bases de datos relacionales, modelado, consultas | SQL, BBDD relacional |
+| **0487** Entorns de desenvolupament | Entornos de desarrollo, herramientas de trabajo | Git, IDEs, entornos de desarrollo |
+| **Optatiu** Desenvolupament de projectes Web | Proyectos web integrales, ABP | Desarrollo web full stack |
+| **0612** Desenvolupament web en entorn client | Frontend, interfaz de usuario | HTML, CSS, JavaScript |
+| **0613** Desenvolupament web en entorn servidor | Backend, lógica de servidor | PHP, Node.js, servidores web |
+| **0614** Desplegament d'aplicacions web | Despliegue, servidores, producción | Servidores, despliegue web |
+| **0615** Disseny d'interfícies web | UI/UX, diseño de interfaces | Diseño web, maquetación |
+| **1665** Digitalització | Transformación digital, herramientas | Herramientas digitales |
+| **ABP** Aprenentatge Basat en Projectes | Aprendizaje basado en proyectos, 2n DAW | Proyecto integrador DAW |
 
----
-
-## 🛠️ Stack Tecnológico
-
-| Categoría | Tecnologías |
-|-----------|-------------|
-| **Frontend** | React, TypeScript, Tailwind CSS, Vite, Next.js, Zod, GSAP, Three.js |
-| **Backend** | Node.js, TypeScript, Socket.IO, PHP, Docker, PostgreSQL, Drizzle ORM |
-| **Bases de datos** | MySQL, PostgreSQL, SQLite, localStorage |
-| **Móvil** | Kotlin, Android Studio |
-| **Herramientas** | Git, GitHub Actions, Biome, Vitest, pnpm/npm, Playwright |
-| **Otros** | Chess.js, Chrome Extensions (Manifest V3) |
+*Curso: DAM-DAW · Mòduls 0484, 0487, optatiu, 0612, 0613, 0614, 0615, 1665 · ABP 2n DAW*
 
 ---
 
