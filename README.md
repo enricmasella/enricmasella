@@ -89,8 +89,8 @@ Proyectos personales, plataformas web y herramientas que estoy diseñando y desa
 | **[uni](https://github.com/enricmasella/uni)** | Suite de herramientas gratuitas para estudiantes de selectividad (PAU): cálculo de notas, ponderaciones, notas de corte, simulador de acceso y utilidades de estudio. | Web Platform *(Next.js 16, PostgreSQL)* | `En desarrollo` |
 | **[NK_Chess](https://github.com/enricmasella/NK_Chess)** | Plataforma de ajedrez educativo interactivo: cursos con estudios dinámicos y ejercicios autocorregibles sin backend ni cuentas. | Web App *(React, Vite, chess.js)* | `En desarrollo` |
 | **[SnapRoulette](https://github.com/enricmasella/SnapRoulette)** | Party game multijugador en tiempo real con salas privadas donde adivinar el autor de fotos y vídeos antes de que desaparezcan. | Real-time Multiplayer *(Node.js, Socket.IO)* | `En desarrollo` |
-| **[NK_Terminal_v2](https://github.com/enricmasella/NK_Terminal_v2)** | Extensión de productividad (Manifest V3): nueva pestaña estilo terminal retro, dashboard interactivo con IA y widgets de sistema. | Chrome Extension | `Prototipo` |
-| **[portfolio_NK](https://github.com/enricmasella/portfolio_NK)** | Portfolio web interactivo con animaciones fluidas, scroll cinemático y elementos 3D. | Web 3D *(Three.js, Lenis)* | `Próximamente` |
+| **[NK_Terminal](https://github.com/enricmasella/NK_Terminal)** | Extensión de productividad (Manifest V3): nueva pestaña estilo terminal retro, dashboard interactivo con IA y widgets de sistema. | Chrome Extension | `Prototipo` |
+| **[portfolio_NK](https://github.com/enricmasella/nk-portfolio)** | Portfolio web interactivo con animaciones fluidas, scroll cinemático y elementos 3D. | Web 3D *(Three.js, Lenis)* | `Próximamente` |
 | **[Nothing_NK](https://github.com/enricmasella/Nothing_NK)** | Exploración y guía técnica de arquitectura de componentes para dispositivos Nothing. | Android *(Kotlin)* | `Experimental` |
 
 > ◇ *Proyectos en constante evolución. Los repositorios se publican y actualizan a medida que alcanzan versiones estables.*
